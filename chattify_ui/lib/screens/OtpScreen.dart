@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 class OtpScreen extends StatefulWidget {
-  const OtpScreen({super.key});
 
   @override
   State<OtpScreen> createState() => _OtpScreenState();
